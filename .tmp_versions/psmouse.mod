@@ -1,0 +1,2 @@
+/home/igor/Downloads/DellAplsDriver/psmouse.ko
+/home/igor/Downloads/DellAplsDriver/psmouse-base.o /home/igor/Downloads/DellAplsDriver/synaptics.o /home/igor/Downloads/DellAplsDriver/alps.o /home/igor/Downloads/DellAplsDriver/elantech.o /home/igor/Downloads/DellAplsDriver/logips2pp.o /home/igor/Downloads/DellAplsDriver/lifebook.o /home/igor/Downloads/DellAplsDriver/sentelic.o /home/igor/Downloads/DellAplsDriver/trackpoint.o /home/igor/Downloads/DellAplsDriver/touchkit_ps2.o

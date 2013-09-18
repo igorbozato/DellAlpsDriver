@@ -1,0 +1,1 @@
+cmd_/home/igor/Downloads/DellAplsDriver/psmouse.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.8.0-19-generic/scripts/module-common.lds --build-id  -o /home/igor/Downloads/DellAplsDriver/psmouse.ko /home/igor/Downloads/DellAplsDriver/psmouse.o /home/igor/Downloads/DellAplsDriver/psmouse.mod.o
